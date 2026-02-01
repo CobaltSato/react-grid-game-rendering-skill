@@ -1,0 +1,22 @@
+{
+  "name": "react-css-grid-game-rendering",
+  "owner": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "metadata": {
+    "description": "React + CSS Grid game rendering patterns for grid-based game UI implementation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "react-css-grid-game-rendering",
+      "description": "Grid-based game rendering patterns using React + CSS Grid. Use for grid game UI implementation, CSS Grid layout design, dynamic object placement, and game UI styling/animation.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/react-css-grid-game-rendering"
+      ]
+    }
+  ]
+}
