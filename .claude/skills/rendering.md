@@ -95,9 +95,8 @@ DOM-based game rendering patterns using React + CSS Grid. Implements game boards
 
 ### Performance
 
-- No issues for small grids (~10x10)
 - Consider virtualization for large grids (100x100+)
-- Migration to Canvas/WebGL is also an option
+- Migration to Canvas/WebGL is also an option for performance-critical applications
 
 ## Best Practices
 

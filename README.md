@@ -11,7 +11,7 @@ Grid-based game rendering patterns using React + CSS Grid. Implements game board
 - **グリッドレイアウトの設定**: CSS 変数を使った柔軟なグリッドサイズ管理
 - **タイルレンダリング**: 2D配列から効率的にタイルを生成するパターン
 - **動的オブジェクト配置**: グリッド位置への正確なオブジェクト配置（0ベース/1ベース変換の考慮）
-- **パフォーマンス最適化**: 小規模グリッド向けの最適化手法
+- **パフォーマンス最適化**: 最適化手法とベストプラクティス
 - **トラブルシューティング**: よくある問題と解決方法
 
 ### 使用シーン
@@ -36,7 +36,6 @@ Grid-based game rendering patterns using React + CSS Grid. Implements game board
 - ✅ Canvas/WebGL 不要でシンプルな実装
 - ✅ CSS 変数による柔軟なサイズ管理
 - ✅ 0ベース/1ベースインデックスの自動変換パターン
-- ✅ 小規模グリッド（~10x10）での高いパフォーマンス
 - ✅ TypeScript 対応の型安全性ガイドライン
 
 ## Installation
