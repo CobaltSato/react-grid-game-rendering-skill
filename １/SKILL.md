@@ -1,6 +1,6 @@
 ---
-name: rendering
-description: "Grid-based game rendering patterns using React + CSS Grid. Use for grid game UI implementation, CSS Grid layout design, dynamic object placement, and game UI styling/animation."
+name: react-css-grid-game-rendering
+description: "Grid-based game rendering patterns using React + CSS Grid. Use for grid game UI implementation, CSS Grid layout design, dynamic object placement, and game UI styling/animation in React projects."
 ---
 
 # React + CSS Grid Game Rendering Skill
@@ -13,6 +13,7 @@ DOM-based game rendering patterns using React + CSS Grid. Implements game boards
 - CSS Grid layout design
 - Dynamic object placement
 - Game UI styling and animation
+- When working with React projects that require grid-based rendering.
 
 ## Tech Stack
 
@@ -100,50 +101,38 @@ DOM-based game rendering patterns using React + CSS Grid. Implements game boards
 - Consider virtualization for large grids (100x100+)
 - Migration to Canvas/WebGL is also an option
 
-<h2>Best Practices</h2>
+## Best Practices
 
-<h3>Leverage CSS Variables</h3>
+### Leverage CSS Variables
 
-<ul>
-<li>Centralize sizes with CSS variables</li>
-<li>Use <code>calc()</code> for dynamic calculations</li>
-<li>Enables easy responsive design</li>
-</ul>
+- Centralize sizes with CSS variables
+- Use `calc()` for dynamic calculations
+- Enables easy responsive design
 
-<h3>Performance Optimization</h3>
+### Performance Optimization
 
-<ul>
-<li>Set <code>key</code> props appropriately</li>
-<li>Eliminate unnecessary elements with conditional rendering</li>
-<li>Memoize with <code>useCallback</code>/<code>useMemo</code></li>
-</ul>
+- Set `key` props appropriately
+- Eliminate unnecessary elements with conditional rendering
+- Memoize with `useCallback`/`useMemo`
 
-<h3>Type Safety</h3>
+### Type Safety
 
-<ul>
-<li>Add type definitions to props</li>
-<li>Define position data types explicitly</li>
-</ul>
+- Add type definitions to props
+- Define position data types explicitly
 
-<h2>Troubleshooting</h2>
+## Troubleshooting
 
-<h3>Objects not appearing in the correct position</h3>
+### Objects not appearing in the correct position
 
-<ul>
-<li>Verify grid position indexing (0-based to 1-based conversion)</li>
-<li>Check <code>transform</code> calculations</li>
-</ul>
+- Verify grid position indexing (0-based to 1-based conversion)
+- Check `transform` calculations
 
-<h3>Tiles overlapping</h3>
+### Tiles overlapping
 
-<ul>
-<li>Verify <code>gap</code> property is set</li>
-<li>Check tile size values</li>
-</ul>
+- Verify `gap` property is set
+- Check tile size values
 
-<h3>Animations not smooth</h3>
+### Animations not smooth
 
-<ul>
-<li>Verify <code>transition</code> is set</li>
-<li>Enable hardware acceleration with <code>will-change: transform</code></li>
-</ul>
+- Verify `transition` is set
+- Enable hardware acceleration with `will-change: transform`
