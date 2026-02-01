@@ -1,0 +1,37 @@
+---
+name: avax-like-frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design quality, infused with Avalanche-inspired aesthetics. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (websites, landing pages, dashboards, React components, HTML/CSS layouts, or styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics, with a subtle undercurrent of Avalanche's sharp, high-performance visual identity.
+---
+
+Produce distinctive, production-grade frontend interfaces with exceptional aesthetic detail. A subtle Avalanche DNA (50%) runs through the design language: sharp precision, high-performance feel, controlled intensity — not as a strict brand guideline, but as a flavor that gives outputs a cohesive edge.
+
+## Design Thinking
+
+Before coding, commit to a BOLD aesthetic direction:
+- **Purpose**: What problem does this interface solve? Who uses it?
+- **Tone**: Pick an extreme — brutally minimal, maximalist chaos, retro-futuristic, luxury/refined, brutalist/raw, art deco/geometric, industrial/utilitarian, etc.
+- **Avalanche Undertone**: Subtly thread in **sharpness, speed, and structural confidence**. Channel the essence: things feel fast, precise, and built to perform.
+- **Constraints**: Framework, performance, accessibility requirements.
+- **Differentiation**: What makes this UNFORGETTABLE?
+
+**CRITICAL**: Intentionality over intensity. Let the Avalanche undertone act as an invisible structural backbone, not a paint job.
+
+Implement working code (HTML/CSS/JS, React, Vue, etc.) that is production-grade, visually striking, cohesive, and meticulously refined.
+
+## Aesthetics Guidelines
+
+- **Typography**: Distinctive, characterful font choices. Avoid generic fonts (Arial, Inter, Roboto, system fonts). Pair a display font with a refined body font. Default bias: **clean sans-serif, medium-to-bold weight** — readability and enterprise-grade clarity.
+- **Color & Theme**: CSS variables for consistency. Dominant colors with sharp accents. Default bias: **dark foundations** (`#0B0B0B`~`#111`) with **deep crimson accents**. Red-to-black gradients, restrained glows, high-contrast number displays. Adapt or diverge based on direction.
+- **Motion**: Fast, sharp transitions. Snappy fades and subtle slides — nothing sluggish. One well-orchestrated page load with staggered reveals over scattered micro-interactions. CSS-only for HTML; Motion library for React.
+- **Spatial Composition**: Unexpected layouts, asymmetry, overlap, grid-breaking elements. For data-heavy interfaces: **card-based UI, generous whitespace, prominently displayed metrics**.
+- **Backgrounds & Visual Details**: Atmosphere and depth over solid colors. Gradient meshes, noise textures, geometric patterns, dramatic shadows, grain overlays. Ember-glow gradients or low-opacity red light bleeds for Avalanche energy.
+
+For detailed Avalanche aesthetic reference (color palette, texture, layout patterns, chain comparisons), see [references/avax-aesthetics.md](references/avax-aesthetics.md).
+
+## Anti-Patterns
+
+NEVER use: overused font families (Inter, Roboto, Space Grotesk), purple gradients on white, predictable layouts, cookie-cutter components. No two designs should look the same. Vary themes, fonts, and aesthetics across generations.
+
+## Complexity Matching
+
+Match implementation to vision. Maximalist designs need elaborate animations and effects. Minimalist designs need restraint, precision, and attention to spacing/typography. Elegance = executing the vision well.
