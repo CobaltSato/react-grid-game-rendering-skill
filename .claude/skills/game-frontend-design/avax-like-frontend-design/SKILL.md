@@ -3,7 +3,7 @@ name: avax-like-frontend-design
 description: Create distinctive, production-grade frontend interfaces with high design quality, infused with Avalanche-inspired aesthetics. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (websites, landing pages, dashboards, React components, HTML/CSS layouts, or styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics, with a subtle undercurrent of Avalanche's sharp, high-performance visual identity.
 ---
 
-Produce distinctive, production-grade frontend interfaces with exceptional aesthetic detail. A subtle Avalanche DNA (20-30%) runs through the design language: sharp precision, high-performance feel, controlled intensity — not as a strict brand guideline, but as a flavor that gives outputs a cohesive edge.
+Produce distinctive, production-grade frontend interfaces with exceptional aesthetic detail. A subtle Avalanche DNA (50%) runs through the design language: sharp precision, high-performance feel, controlled intensity — not as a strict brand guideline, but as a flavor that gives outputs a cohesive edge.
 
 ## Design Thinking
 
