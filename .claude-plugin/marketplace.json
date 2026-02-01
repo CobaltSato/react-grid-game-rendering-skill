@@ -1,11 +1,11 @@
 {
-  "name": "react-css-grid-game-rendering",
+  "name": "game-development-skills",
   "owner": {
     "name": "Kobaruto Sato",
     "email": "cobaltkomeiji@gmail.com"
   },
   "metadata": {
-    "description": "React + CSS Grid game rendering patterns for grid-based game UI implementation",
+    "description": "Game development skills collection: React CSS Grid game rendering and Avalanche-inspired frontend design",
     "version": "1.0.0"
   },
   "plugins": [
@@ -15,7 +15,16 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/react-css-grid-game-rendering"
+        "./react-css-grid-game-rendering"
+      ]
+    },
+    {
+      "name": "avax-like-frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality, infused with Avalanche-inspired aesthetics. Use for building web components, pages, dashboards, React components, HTML/CSS layouts, or styling any web UI.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./avax-like-frontend-design"
       ]
     }
   ]
