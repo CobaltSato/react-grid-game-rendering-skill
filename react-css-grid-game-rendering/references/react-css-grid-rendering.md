@@ -1,7 +1,3 @@
----
-description: "Grid-based game rendering patterns using React + CSS Grid. Use for grid game UI implementation, CSS Grid layout design, dynamic object placement, and game UI styling/animation."
----
-
 # React + CSS Grid Game Rendering Skill
 
 DOM-based game rendering patterns using React + CSS Grid. Implements game boards with grid layouts instead of Canvas/WebGL.
